@@ -32,6 +32,6 @@ You can see the code [here](Assignment%204%20-%20Searching%20for%20Similarity/PC
 
 You can see the results of the classification part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Classification.pdf), and for the regression part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Regression.pdf)
 
-You can see the code for the classification part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Classification.Rmd), and for Regression [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Regression.Rmd)
+You can see the code for the classification part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Classification.Rmd), and for the regression part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Regression.Rmd)
 
 ## Assignment 7 - Image Classification
