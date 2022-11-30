@@ -18,13 +18,19 @@ You can see the code for the classification part [here](Assignment%202%20-%20Lin
 
 ## Assignment 3 - ML From Scratch
 
-You can see the results of the assignmet [here](Assignment%203%20-%20ML%20from%20Scratch/Writeup.pdf)
+You can see the results of the assignment [here](Assignment%203%20-%20ML%20from%20Scratch/Writeup.pdf)
 
 You can see the code [here](Assignment%203%20-%20ML%20from%20Scratch/main.cpp)
 
 ## Assignment 4 - Similarity
 
+You can see the results of the assignment [here](Assignment%204%20-%20Searching%20for%20Similarity/PCAandLDA.pdf)
+
+You can see the code [here](Assignment%204%20-%20Searching%20for%20Similarity/PCAandLDA.Rmd)
+
 ## Assignment 5 - Kernel and Ensemble
+
+
 
 ## Assignment 6 - ML with sklearn
 
