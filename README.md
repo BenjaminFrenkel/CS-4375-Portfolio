@@ -12,9 +12,9 @@ You can see the code [here](Assignment%201%20-%20Data%20Exploration/main.cpp)
 
 ## Assignment 2 - Linear Models
 
-You can see the results of the classification [here](Assignment%202%20-%20Linear%20Models/Classification.pdf), and for linear regression [here](Assignment%202%20-%20Linear%20Models/Regression.pdf)
+You can see the results of the classification part [here](Assignment%202%20-%20Linear%20Models/Classification.pdf), and for linear regression part [here](Assignment%202%20-%20Linear%20Models/Regression.pdf)
 
-You can see the code for the classification part [here](Assignment%202%20-%20Linear%20Models/Classification.Rmd), and for linear regression [here](Assignment%202%20-%20Linear%20Models/Regression.Rmd)
+You can see the code for the classification part [here](Assignment%202%20-%20Linear%20Models/Classification.Rmd), and for linear regression part [here](Assignment%202%20-%20Linear%20Models/Regression.Rmd)
 
 ## Assignment 3 - ML From Scratch
 
@@ -30,10 +30,8 @@ You can see the code [here](Assignment%204%20-%20Searching%20for%20Similarity/PC
 
 ## Assignment 5 - Kernel and Ensemble
 
+You can see the results of the classification part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Classification.pdf), and for the regression part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Regression.pdf)
 
-
-## Assignment 6 - ML with sklearn
-
-*skipped
+You can see the code for the classification part [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Classification.Rmd), and for Regression [here](Assignment%205%20-%20Kernel%20and%20Ensemble/Regression.Rmd)
 
 ## Assignment 7 - Image Classification
